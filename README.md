@@ -37,7 +37,6 @@
 ### 演示
 
 ![](https://github.com/a-fat-k79/IMG/blob/master/glory-admin/GloryAdminShow.gif)
-![](https://a-fat-k79.github.io/IMG/glory-admin/AdminProfilePhoto.gif)
 
 ### 系统架构
 
